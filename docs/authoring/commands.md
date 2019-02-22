@@ -74,7 +74,7 @@ To invoke a logging command, simply emit the command via standard output. For ex
             </td>
             <td>
                 <p align="left">
-                    <code>result</code>=<code>Succeeded</code>|<code>SucceededWithIssues</code>|<code>Failed</code>|<code>Cancelled</code>|<code>Skipped</code>
+                    <code>result</code>=<code>Succeeded</code>|<code>SucceededWithIssues</code>|<code>Failed</code>|<code>Canceled</code>|<code>Skipped</code>
                 </p>
             </td>
             <td>
